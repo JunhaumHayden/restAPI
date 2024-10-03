@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>tst.firstStep</groupId>
-	<artifactId>firstStepOnRest</artifactId>
+	<groupId>edu.webservice</groupId>
+	<artifactId>ProjectOne</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>NumberOne</name>
-	<description>Demo project for Spring Boot using RestFul</description>
+	<name>ProjectOne</name>
+	<description>First project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>

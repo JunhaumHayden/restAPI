@@ -1,10 +1,10 @@
-package tst.firstStep.firstStepOnRest;
+package edu.webservice.ProjectOne;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NumberOneApplicationTests {
+class ProjectOneApplicationTests {
 
 	@Test
 	void contextLoads() {
