@@ -1,13 +1,13 @@
-package edu.webservice.ProjectOne;
+package edu.webservice.RestProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjectOneApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectOneApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }

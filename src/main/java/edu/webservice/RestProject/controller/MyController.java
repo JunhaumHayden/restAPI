@@ -1,4 +1,4 @@
-package edu.webservice.ProjectOne.controller;
+package edu.webservice.RestProject.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -17,7 +17,7 @@ public class MyController {
 			return String.format("Hello %s!", name);
 		}
 
-        @GetMapping("/getNumeroInteiro")
+        @GetMapping("/NumeroInteiro")
 	    @ResponseBody //Diz ao Spring Boot que o valor retornado pelo método deve ser o corpo da resposta HTTP. Ou seja, em vez de procurar uma página ou um template, o Spring apenas enviará o valor retornado diretamente na resposta HTTP.
         public int getNumeroInteiro() {
             return 100;
