@@ -1,0 +1,8 @@
+edu/ifsc/fln/confortaid/repository/ProfissionalRepository.class
+edu/ifsc/fln/confortaid/model/Profissional.class
+edu/ifsc/fln/confortaid/repository/ClienteRepository.class
+edu/ifsc/fln/confortaid/ConfortaidProjectApplication.class
+edu/ifsc/fln/confortaid/model/Usuario.class
+edu/ifsc/fln/confortaid/controller/ClienteController.class
+edu/ifsc/fln/confortaid/model/Cliente.class
+edu/ifsc/fln/confortaid/controller/ProfissionalController.class
